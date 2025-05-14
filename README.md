@@ -49,4 +49,4 @@ Okay, let me once show you the table structure of the cleaned data real quick. O
 
 To use the SQL scripts, simply copy and paste the queries into your SQL environment and run them against the `layoffs_staging2` table. This is one of the easiest way out there.
 
-Happy Exploring!
+This project is licensed under the [MIT License](https://github.com/nibeditans/World-Layoffs-Analysis/tree/main?tab=MIT-1-ov-file). Click the link or check out the LICENSE file for more details.
