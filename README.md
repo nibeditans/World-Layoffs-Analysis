@@ -2,7 +2,7 @@
 A SQL Data Cleaning and EDA Project done in MySQL.
 First we have done some Data Cleaning, and then performed some EDA (Exploratory Data Analysis). Well, I have added comments and explanations for important queries blocks already. So, let's just discuss the steps to have a quick revision.
 
-You can check out both the articles on this this Project: 
+You can check out both the articles on this Project: 
 - WLA - Part 1: [DATA CLEANING in Layoff Dataset — Part 1](https://nsdsda.medium.com/data-cleaning-in-layoff-dataset-part-1-f366a6c112c6)
 - WLA - Part 2: [EDA in Layoff Dataset — Part 2](https://nsdsda.medium.com/eda-in-layoff-dataset-part-2-dcc866041ebd)
 
