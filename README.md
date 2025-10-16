@@ -6,7 +6,6 @@ You can check out the articles I've written on this Project:
 - WLA - Part 1: [DATA CLEANING in Layoff Dataset — Part 1](https://nsdsda.medium.com/data-cleaning-in-layoff-dataset-part-1-f366a6c112c6)
 - WLA - Part 2: [EDA in Layoff Dataset — Part 2](https://nsdsda.medium.com/eda-in-layoff-dataset-part-2-dcc866041ebd)
 
-
 ## Data Cleaning on World Layoffs Dataset
 Alright! Let's get into it real quick.
 
@@ -48,5 +47,7 @@ Okay, let me once show you the table structure of the cleaned data real quick. O
 
 
 To use the SQL scripts, simply copy and paste the queries into your SQL environment and run them against the `layoffs_staging2` table. This is one of the easiest way out there.
+
+Wanna explored more Projects and Fun Programs? Check out the [Data Analytics Projects Collection](https://github.com/nibeditans/A-Few-Data-Analytics-Projects) Page.
 
 This project is licensed under the [MIT License](https://github.com/nibeditans/World-Layoffs-Analysis/tree/main?tab=MIT-1-ov-file). Click the link or check out the LICENSE file for more details.
